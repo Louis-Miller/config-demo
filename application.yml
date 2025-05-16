@@ -3,9 +3,6 @@ features:
   feature_name:
     enabled: true
 
-  # Configuration for the feature
-  feature_name:
-    setting1: value1
-    setting2: value2
+
 
   
